@@ -1,12 +1,15 @@
-# TASK 4
-    Написати функцію, котра рахує кількість води (синіх клітинок) набраної в ями на дорогах після дощу. Даний массив являється висотами асфальту (2D).
-    
-     
-    Приклад:
-    getWaterAmount([2,1,5,0,3,4,7,2,3,1,0]) => 10
+# HW 1
+       write a simple implementation of blockchain on JS:
+       2 Classes:( Chain, Block ) 
+       - mine Block, 
+       - chain.isOrderValid
+       - validate block hash, 
+       - validate full chain hash
+       - mining difficulty, 
+       - add dynamic difficulty
 
    
 
 
 
-### Link to: [view]() .
+### Link to: [view](https://sergii5854.github.io/BA-blockchainJS1.github.io/) .
