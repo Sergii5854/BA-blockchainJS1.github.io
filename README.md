@@ -9,4 +9,4 @@
 
 
 
-### Link to: [view](https://sergii5854.github.io/BA-getWaterAmount.github.io/) .
+### Link to: [view]() .
